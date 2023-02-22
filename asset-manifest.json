@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe0d37a1.css",
-    "main.js": "/static/js/main.bca451d9.js",
+    "main.css": "/static/css/main.69d0278f.css",
+    "main.js": "/static/js/main.f3e6a1c6.js",
     "static/js/787.12e79130.chunk.js": "/static/js/787.12e79130.chunk.js",
     "static/media/realEstate.mp4": "/static/media/realEstate.dcfdc2004f1d037d6608.mp4",
     "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
@@ -9,10 +9,11 @@
     "static/media/detail1.png": "/static/media/detail1.f91a9b83a50ea0330a92.png",
     "static/media/agencyProfileMain.png": "/static/media/agencyProfileMain.6c71ffffcbe0efd5f930.png",
     "static/media/property-2.png": "/static/media/property-2.6c189045f77166832942.png",
+    "static/media/Homebanner.png": "/static/media/Homebanner.1e3bdfc1fa9e1a34678a.png",
     "static/media/homeloan.png": "/static/media/homeloan.97d8711d85b0218f06fe.png",
-    "static/media/Homebanner.png": "/static/media/Homebanner.465baf3672a43f825e43.png",
     "static/media/building.png": "/static/media/building.a0bab0cff8d660db8c3b.png",
     "static/media/image (0).png": "/static/media/image (0).e0bf6b7cb6b43c3b5685.png",
+    "static/media/savedMap.png": "/static/media/savedMap.106fd2b5ed5c899197cc.png",
     "static/media/property-1.png": "/static/media/property-1.b0ef0b8211141fe4d49a.png",
     "static/media/news.png": "/static/media/news.556c9619a423dbd2fe40.png",
     "static/media/newsfirst.png": "/static/media/newsfirst.7ccde323c9e4673c61e4.png",
@@ -56,13 +57,11 @@
     "static/media/agencyAgentImg (1).png": "/static/media/agencyAgentImg (1).40479f3988345e688f78.png",
     "static/media/agentBanner2.png": "/static/media/agentBanner2.37744e6e57c07e6b1fce.png",
     "static/media/a3.png": "/static/media/a3.3cc2620f3a2cd7b44418.png",
-    "static/media/Bar Details.png": "/static/media/Bar Details.b96ece9e728618de9a55.png",
     "static/media/Image (3).png": "/static/media/Image (3).1febb9d8aca46e29e666.png",
     "static/media/Bottom Line.png": "/static/media/Bottom Line.2f0ddb41b31bd48c9090.png",
     "static/media/Image (2).png": "/static/media/Image (2).b49c36f8acbe3c8e4f08.png",
     "static/media/Bottom Line (1).png": "/static/media/Bottom Line (1).b2ae3487b25dab442a2e.png",
     "static/media/Image (4).png": "/static/media/Image (4).117329265a37603883b6.png",
-    "static/media/cardi.svg": "/static/media/cardi.aae51c73e8c0d81b9d690b2570cd40f6.svg",
     "static/media/icon2.svg": "/static/media/icon2.bda743d7007f2f25d567507d83ac097d.svg",
     "static/media/printrest.svg": "/static/media/printrest.b8f94006ca6dcc89e2dd4f8ec40be0ad.svg",
     "static/media/twter.svg": "/static/media/twter.1e71397d009f4c40333b597ce7ea60b9.svg",
@@ -73,12 +72,12 @@
     "static/media/icon.svg": "/static/media/icon.0c8f93243bbb4715a1036e9e9be402fc.svg",
     "static/media/location.svg": "/static/media/location.7f5678aa6d8ed1abe9573577d6ba1c8f.svg",
     "static/media/like.svg": "/static/media/like.71c55accc84e0721797591ecfec66903.svg",
-    "main.fe0d37a1.css.map": "/static/css/main.fe0d37a1.css.map",
-    "main.bca451d9.js.map": "/static/js/main.bca451d9.js.map",
+    "main.69d0278f.css.map": "/static/css/main.69d0278f.css.map",
+    "main.f3e6a1c6.js.map": "/static/js/main.f3e6a1c6.js.map",
     "787.12e79130.chunk.js.map": "/static/js/787.12e79130.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe0d37a1.css",
-    "static/js/main.bca451d9.js"
+    "static/css/main.69d0278f.css",
+    "static/js/main.f3e6a1c6.js"
   ]
 }
