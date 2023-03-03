@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69d0278f.css",
-    "main.js": "/static/js/main.861ae4b4.js",
+    "main.js": "/static/js/main.80d7cb0c.js",
     "static/js/787.12e79130.chunk.js": "/static/js/787.12e79130.chunk.js",
     "static/media/realEstate.mp4": "/static/media/realEstate.dcfdc2004f1d037d6608.mp4",
     "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
@@ -36,6 +36,8 @@
     "static/media/inspection3.png": "/static/media/inspection3.8b5ad022c0c38c0624b1.png",
     "static/media/agentProfile.png": "/static/media/agentProfile.a3a946314744a717f4a5.png",
     "static/media/news1.png": "/static/media/news1.455b533e8535c0da2dc4.png",
+    "static/media/logo.png": "/static/media/logo.0d6abadc1b386eda55bf.png",
+    "static/media/logoSmall.png": "/static/media/logoSmall.65ad6fae4c086d36490f.png",
     "static/media/rs4.png": "/static/media/rs4.398247734a566dbdddf5.png",
     "static/media/rs2.png": "/static/media/rs2.2bb11ba632a12a80ee80.png",
     "static/media/agentBanner4.png": "/static/media/agentBanner4.8d59ce6294080a3f7e41.png",
@@ -77,11 +79,11 @@
     "static/media/location.svg": "/static/media/location.7f5678aa6d8ed1abe9573577d6ba1c8f.svg",
     "static/media/like.svg": "/static/media/like.71c55accc84e0721797591ecfec66903.svg",
     "main.69d0278f.css.map": "/static/css/main.69d0278f.css.map",
-    "main.861ae4b4.js.map": "/static/js/main.861ae4b4.js.map",
+    "main.80d7cb0c.js.map": "/static/js/main.80d7cb0c.js.map",
     "787.12e79130.chunk.js.map": "/static/js/787.12e79130.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69d0278f.css",
-    "static/js/main.861ae4b4.js"
+    "static/js/main.80d7cb0c.js"
   ]
 }
