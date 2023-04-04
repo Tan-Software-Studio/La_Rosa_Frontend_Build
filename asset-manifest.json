@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3dbcb5d9.css",
-    "main.js": "/static/js/main.fc8b87ab.js",
+    "main.js": "/static/js/main.c6035dbf.js",
     "static/js/787.12e79130.chunk.js": "/static/js/787.12e79130.chunk.js",
     "static/media/realEstate.mp4": "/static/media/realEstate.dcfdc2004f1d037d6608.mp4",
     "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
@@ -13,14 +13,11 @@
     "static/media/homeloan.png": "/static/media/homeloan.97d8711d85b0218f06fe.png",
     "static/media/building.png": "/static/media/building.a0bab0cff8d660db8c3b.png",
     "static/media/image (0).png": "/static/media/image (0).e0bf6b7cb6b43c3b5685.png",
-    "static/media/savedMap.png": "/static/media/savedMap.106fd2b5ed5c899197cc.png",
     "static/media/property-1.png": "/static/media/property-1.b0ef0b8211141fe4d49a.png",
     "static/media/news.png": "/static/media/news.556c9619a423dbd2fe40.png",
     "static/media/newsfirst.png": "/static/media/newsfirst.7ccde323c9e4673c61e4.png",
     "static/media/newssecond.png": "/static/media/newssecond.3237c90a172d833957b5.png",
-    "static/media/Image.png": "/static/media/Image.3e88dd553b9a080aa3d5.png",
     "static/media/drem2.png": "/static/media/drem2.15ae6970afc64ebc3a82.png",
-    "static/media/Image (1).png": "/static/media/Image (1).09d65a5e3d9ff82eef1c.png",
     "static/media/drem.png": "/static/media/drem.ca1508610c83e269d545.png",
     "static/media/news2.png": "/static/media/news2.0720e989b340dffac792.png",
     "static/media/sold1.png": "/static/media/sold1.9c73cfd959990e925347.png",
@@ -65,9 +62,7 @@
     "static/media/agentBanner2.png": "/static/media/agentBanner2.37744e6e57c07e6b1fce.png",
     "static/media/a3.png": "/static/media/a3.3cc2620f3a2cd7b44418.png",
     "static/media/Image (3).png": "/static/media/Image (3).1febb9d8aca46e29e666.png",
-    "static/media/Bottom Line.png": "/static/media/Bottom Line.2f0ddb41b31bd48c9090.png",
     "static/media/Image (2).png": "/static/media/Image (2).b49c36f8acbe3c8e4f08.png",
-    "static/media/Bottom Line (1).png": "/static/media/Bottom Line (1).b2ae3487b25dab442a2e.png",
     "static/media/Image (4).png": "/static/media/Image (4).117329265a37603883b6.png",
     "static/media/icon2.svg": "/static/media/icon2.bda743d7007f2f25d567507d83ac097d.svg",
     "static/media/printrest.svg": "/static/media/printrest.b8f94006ca6dcc89e2dd4f8ec40be0ad.svg",
@@ -80,11 +75,11 @@
     "static/media/location.svg": "/static/media/location.7f5678aa6d8ed1abe9573577d6ba1c8f.svg",
     "static/media/like.svg": "/static/media/like.71c55accc84e0721797591ecfec66903.svg",
     "main.3dbcb5d9.css.map": "/static/css/main.3dbcb5d9.css.map",
-    "main.fc8b87ab.js.map": "/static/js/main.fc8b87ab.js.map",
+    "main.c6035dbf.js.map": "/static/js/main.c6035dbf.js.map",
     "787.12e79130.chunk.js.map": "/static/js/787.12e79130.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dbcb5d9.css",
-    "static/js/main.fc8b87ab.js"
+    "static/js/main.c6035dbf.js"
   ]
 }
