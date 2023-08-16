@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.47a83e5b.css",
-    "main.js": "/static/js/main.08c8e692.js",
+    "main.js": "/static/js/main.8a504cd5.js",
     "static/js/787.12e79130.chunk.js": "/static/js/787.12e79130.chunk.js",
     "static/media/realEstate.mp4": "/static/media/realEstate.dcfdc2004f1d037d6608.mp4",
     "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
-    "static/media/agentCoverImg.png": "/static/media/agentCoverImg.73dfb39961752f07aace.png",
     "static/media/agencyProfileMain.png": "/static/media/agencyProfileMain.6c71ffffcbe0efd5f930.png",
     "static/media/property-2.png": "/static/media/property-2.6c189045f77166832942.png",
     "static/media/Homebanner.png": "/static/media/Homebanner.1e3bdfc1fa9e1a34678a.png",
@@ -26,7 +25,6 @@
     "static/media/drem3.png": "/static/media/drem3.ef95bf1717945895d048.png",
     "static/media/inspection4.png": "/static/media/inspection4.2e40e556abdbc763cb80.png",
     "static/media/inspection3.png": "/static/media/inspection3.8b5ad022c0c38c0624b1.png",
-    "static/media/agentProfile.png": "/static/media/agentProfile.a3a946314744a717f4a5.png",
     "static/media/news1.png": "/static/media/news1.455b533e8535c0da2dc4.png",
     "static/media/logo.png": "/static/media/logo.0d6abadc1b386eda55bf.png",
     "static/media/logoSmall.png": "/static/media/logoSmall.65ad6fae4c086d36490f.png",
@@ -63,11 +61,11 @@
     "static/media/location.svg": "/static/media/location.7f5678aa6d8ed1abe9573577d6ba1c8f.svg",
     "static/media/like.svg": "/static/media/like.71c55accc84e0721797591ecfec66903.svg",
     "main.47a83e5b.css.map": "/static/css/main.47a83e5b.css.map",
-    "main.08c8e692.js.map": "/static/js/main.08c8e692.js.map",
+    "main.8a504cd5.js.map": "/static/js/main.8a504cd5.js.map",
     "787.12e79130.chunk.js.map": "/static/js/787.12e79130.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a83e5b.css",
-    "static/js/main.08c8e692.js"
+    "static/js/main.8a504cd5.js"
   ]
 }
